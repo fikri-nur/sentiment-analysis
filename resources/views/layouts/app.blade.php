@@ -34,7 +34,7 @@
                             <a class="nav-link" href="">Crawling Data</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('datasets') }}">Dataset</a>
+                            <a class="nav-link" href="{{ route('datasets.index') }}">Dataset</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="">Preprocessing</a>
